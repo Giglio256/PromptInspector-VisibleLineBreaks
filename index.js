@@ -15,7 +15,7 @@ import { renderExtensionTemplateAsync } from '../../../extensions.js';
 import { POPUP_RESULT, POPUP_TYPE, Popup } from '../../../popup.js';
 import { t } from '../../../i18n.js';
 
-const path = 'third-party/Extension-PromptInspector';
+const path = 'third-party/PromptInspector-VisibleLineBreaks';
 
 if (!('GENERATE_AFTER_COMBINE_PROMPTS' in event_types) || !('CHAT_COMPLETION_PROMPT_READY' in event_types)) {
     toastr.error('Required event types not found. Update SillyTavern to the latest version.');
