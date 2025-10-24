@@ -5,7 +5,7 @@ Adds an option to inspect and edit output prompts before sending them to the ser
 ## Usage
 
 1. Make sure you're using SillyTavern 1.12.1 or later. The latest `staging` branch is recommended.
-2. Install via the built-in extension manager using the URL: `https://github.com/SillyTavern/Extension-PromptInspector`
+2. Install via the built-in extension manager using the URL: `https://github.com/Giglio256/PromptInspector-VisibleLineBreaks`
 3. Find a new option in the wand menu to toggle the prompt inspector.
 4. Send any chat prompt to get a popup with the prompt data.
 
